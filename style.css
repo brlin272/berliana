@@ -1,0 +1,48 @@
+.jumbotron{
+	padding-top: 4rem;
+	padding-bottom: 0rem;
+	background-color: #e0f2ff;
+}
+	.responsive{
+		width: 100%;
+		height: auto;
+}
+form {
+            background-color: white;
+            max-width: 500px;
+            margin: 0 auto 30px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            .contact {
+  			background-color: white;
+  			padding: 20px;
+		}
+        }
+         form input, form textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        form button {
+            background-color: #0077cc;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        footer {
+            background-color: #004d99;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        .project{
+	padding-top: 4rem;
+	padding-bottom: 0rem;
+	background-color: #e0f2ff;
+	}
+        
